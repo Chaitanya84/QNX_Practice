@@ -1,3 +1,4 @@
 # QNX_Practice
 Learning QNX starts here
-Participant: Purnendu kumar
+Participant 1: Purnendu kumar
+Participant 2: Chaitanya Priya
